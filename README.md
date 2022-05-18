@@ -1,4 +1,4 @@
-# Machine-Learning-Chicago-Housing-Market
+# Machine-Learning-Chicago-Housing-Market-MiniProject
 A machine learning exploration into Chicago, IL house listings, extracted on 05/17/2022. 
 
 Dataset: Cleaned housing listings in Chicago, IL on 05/17/2022 (just a portion, not the full listing data)
